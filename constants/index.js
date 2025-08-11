@@ -19,25 +19,25 @@ const navLinks = [
 
 const cocktailLists = [
     {
-        name: "Chapel Hill Shiraz",
+        name: "Cherry Bombshell",
         country: "AU",
         detail: "Battle",
         price: "$10",
     },
     {
-        name: "Caten Malbee",
+        name: "Tropic Thunder",
         country: "AU",
         detail: "Battle",
         price: "$49",
     },
     {
-        name: "Rhino Pale Ale",
+        name: "Deep Sea Drift",
         country: "CA",
         detail: "750 ml",
         price: "$20",
     },
     {
-        name: "Irish Guinness",
+        name: "Pineapple Parade",
         country: "IE",
         detail: "600 ml",
         price: "$29",
@@ -46,25 +46,25 @@ const cocktailLists = [
 
 const mockTailLists = [
     {
-        name: "Tropical Bloom",
+        name: "Berry Bloom",
         country: "US",
         detail: "Battle",
         price: "$10",
     },
     {
-        name: "Passionfruit Mint",
+        name: "Blood Moon Spritz",
         country: "US",
         detail: "Battle",
         price: "$49",
     },
     {
-        name: "Citrus Glow",
+        name: "Peach Potion",
         country: "CA",
         detail: "750 ml",
         price: "$20",
     },
     {
-        name: "Lavender Fizz",
+        name: "Flamingo Fuel",
         country: "IE",
         detail: "600 ml",
         price: "$29",
@@ -137,7 +137,7 @@ const socials = [
 const sliderLists = [
     {
         id: 1,
-        name: "Classic Mojito",
+        name: "Classic Cocorum",
         image: "/images/drink1.png",
         title: "Simple Ingredients, Bold Flavor",
         description:
@@ -145,7 +145,7 @@ const sliderLists = [
     },
     {
         id: 2,
-        name: "Raspberry Mojito",
+        name: "Moonlight Martini",
         image: "/images/drink2.png",
         title: "A Zesty Classic That Never Fails",
         description:
@@ -153,7 +153,7 @@ const sliderLists = [
     },
     {
         id: 3,
-        name: "Violet Breeze",
+        name: "Lavender Whisper",
         image: "/images/drink3.png",
         title: "Simple Ingredients, Bold Flavor",
         description:
@@ -161,7 +161,7 @@ const sliderLists = [
     },
     {
         id: 4,
-        name: "Curacao Mojito",
+        name: "Mango Overdrive",
         image: "/images/drink4.png",
         title: "Crafted With Care, Poured With Love",
         description:
