@@ -28,7 +28,7 @@ const Art = () => {
     })
 
     return (
-        <div id="art">
+        <section id="art">
             <div className="container mx-auto h-full pt-20">
                 <h2 className="will-fade">The Art</h2>
 
@@ -42,7 +42,7 @@ const Art = () => {
                         ))}
                     </ul>
 
-                    <div className="will-fade">
+                    <div className="cocktail-img">
                         <img src="/images/under-img.jpg" alt="cocktail" className="abs-center masked-img size-full object-contain" />
                     </div>
 
@@ -64,7 +64,7 @@ const Art = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     )
 }
 export default Art
