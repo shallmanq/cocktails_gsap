@@ -22,25 +22,25 @@ const cocktailLists = [
         name: "Cherry Bombshell",
         country: "AU",
         detail: "Battle",
-        price: "$10",
+        price: "£10",
     },
     {
         name: "Tropic Thunder",
         country: "AU",
         detail: "Battle",
-        price: "$49",
+        price: "£49",
     },
     {
         name: "Deep Sea Drift",
         country: "CA",
         detail: "750 ml",
-        price: "$20",
+        price: "£20",
     },
     {
         name: "Pineapple Parade",
         country: "IE",
         detail: "600 ml",
-        price: "$29",
+        price: "£29",
     },
 ];
 
@@ -49,25 +49,25 @@ const mockTailLists = [
         name: "Berry Bloom",
         country: "US",
         detail: "Battle",
-        price: "$10",
+        price: "£10",
     },
     {
         name: "Blood Moon Spritz",
         country: "US",
         detail: "Battle",
-        price: "$49",
+        price: "£49",
     },
     {
         name: "Peach Potion",
         country: "CA",
         detail: "750 ml",
-        price: "$20",
+        price: "£20",
     },
     {
         name: "Flamingo Fuel",
         country: "IE",
         detail: "600 ml",
-        price: "$29",
+        price: "£29",
     },
 ];
 
@@ -99,15 +99,6 @@ const goodLists = [
     "Bartending artistry in action",
     "Freshly muddled flavors",
 ];
-
-const storeInfo = {
-    heading: "Where to Find Us",
-    address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
-    contact: {
-        phone: "(555) 987-6543",
-        email: "hello@jsmcocktail.com",
-    },
-};
 
 const openingHours = [
     { day: "Mon–Thu", time: "11:00am – 12am" },
@@ -177,7 +168,6 @@ export {
     featureLists,
     goodLists,
     openingHours,
-    storeInfo,
     socials,
     sliderLists,
 };
